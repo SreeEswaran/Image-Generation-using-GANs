@@ -6,7 +6,7 @@ This repository contains the code for a Generative Adversarial Network (GAN) tha
 - Customizable GAN architecture
 - High-quality image generation
 
-### Project Structure
+## Project Structure
 ## Files Description
 
 - **`.gitignore`**: Specifies files and directories to be ignored by Git.
@@ -18,9 +18,13 @@ This repository contains the code for a Generative Adversarial Network (GAN) tha
 - **`requirements.txt`**: Lists the dependencies required to run the project.
 - **`results/`**: Directory where generated images and trained model weights are saved.
 
-## Installation
+## Installation and Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GAN-Image-Generation.git
-   cd GAN-Image-Generation
+   git clone https://github.com/SreeEswaran/Image-Generation-using-GANs.git
+   cd Image-Generation-using-GANs
+2. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+
