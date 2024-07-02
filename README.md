@@ -1,6 +1,6 @@
 # Image-Generation-using-GANs
 
-This repository contains the code for a Generative Adversarial Network (GAN) that generates new images from a given dataset.
+This project helps you generate new images from a given dataset using Generative Adversarial Network (GAN).
 
 ## Features
 - Customizable GAN architecture
