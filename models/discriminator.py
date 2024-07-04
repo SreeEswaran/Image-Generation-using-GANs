@@ -39,4 +39,4 @@ if __name__ == "__main__":
     x = torch.randn(N, img_channels, img_size, img_size)
     model = Discriminator(img_channels, feature_d)
     preds = model(x)
-    print(preds.shape)  # Expected output: (N,)
+    print(preds.shape)  # Expected output
