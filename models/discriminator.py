@@ -35,7 +35,6 @@ if __name__ == "__main__":
     feature_d = 64
     N = 8  # Batch size
     img_size = 64
-
     x = torch.randn(N, img_channels, img_size, img_size)
     model = Discriminator(img_channels, feature_d)
     preds = model(x)
